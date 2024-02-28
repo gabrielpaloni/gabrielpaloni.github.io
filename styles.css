@@ -1,30 +1,32 @@
 
 body{
     background-image: 
-        url(https://cdn.freelogovectors.net/wp-content/uploads/2023/09/avenged_sevenfold-logo-freelogovectors.net_.png),
-             url(https://cdn.freelogovectors.net/wp-content/uploads/2023/09/avenged_sevenfold-logo-freelogovectors.net_.png),
-                 url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Avenged_Sevenfold_-_Logo.svg/2560px-Avenged_Sevenfold_-_Logo.svg.png),
-                     url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Avenged_Sevenfold_-_Logo.svg/2560px-Avenged_Sevenfold_-_Logo.svg.png),
-        url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Avenged_Sevenfold_-_Logo.svg/2560px-Avenged_Sevenfold_-_Logo.svg.png),
-            url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Avenged_Sevenfold_-_Logo.svg/2560px-Avenged_Sevenfold_-_Logo.svg.png),
-                url(https://images.vexels.com/media/users/3/130385/isolated/preview/93950fab65d8584d121a0c649a10c4bc-divisoria-de-linha-floral-vintage.png),
-                    url(https://images.vexels.com/media/users/3/130385/isolated/preview/93950fab65d8584d121a0c649a10c4bc-divisoria-de-linha-floral-vintage.png),
-        url(https://images.vexels.com/media/users/3/130385/isolated/preview/93950fab65d8584d121a0c649a10c4bc-divisoria-de-linha-floral-vintage.png),
-             url(https://images.vexels.com/media/users/3/130385/isolated/preview/93950fab65d8584d121a0c649a10c4bc-divisoria-de-linha-floral-vintage.png),
-                 url(https://upload.wikimedia.org/wikipedia/pt/7/72/Grhhhrhry.jpg), 
-                     url(https://upload.wikimedia.org/wikipedia/pt/7/72/Grhhhrhry.jpg),
-        url(https://upload.wikimedia.org/wikipedia/pt/7/72/Grhhhrhry.jpg), 
-            url(https://upload.wikimedia.org/wikipedia/pt/7/72/Grhhhrhry.jpg),
-                url(https://upload.wikimedia.org/wikipedia/pt/7/72/Grhhhrhry.jpg), 
-                     url(https://upload.wikimedia.org/wikipedia/pt/7/72/Grhhhrhry.jpg), 
-        url(https://upload.wikimedia.org/wikipedia/pt/2/29/Avenged-Sevenfold-Nightmare.jpg.png), 
-            url(https://upload.wikimedia.org/wikipedia/pt/2/29/Avenged-Sevenfold-Nightmare.jpg.png),
-                url(https://images-americanas.b2w.io/produtos/83251639/imagens/cd-avenged-sevenfold-hail-to-the-king/83251638_1_large.jpg), 
-                      url(https://m.media-amazon.com/images/I/81wyVyxHcgL._UF1000,1000_QL80_.jpg),
-        url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Avenged_Sevenfold_-_Logo.svg/2560px-Avenged_Sevenfold_-_Logo.svg.png),
-            url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Avenged_Sevenfold_-_Logo.svg/2560px-Avenged_Sevenfold_-_Logo.svg.png),
-                url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Avenged_Sevenfold_-_Logo.svg/2560px-Avenged_Sevenfold_-_Logo.svg.png),
-                    url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Avenged_Sevenfold_-_Logo.svg/2560px-Avenged_Sevenfold_-_Logo.svg.png);
+        url(guns.jpg),
+             url(guns.jpg),
+                 url(ax7.png),
+                     url(ax7.png),
+        url(ax7.png),
+            url(ax7.png),
+                url(linhaa7x.png),
+                    url(linhaa7x.png),
+        url(linhaa7x.png),
+             url(linhaa7x.png),
+                url(ax7.png),
+                    url(ax7.png),
+        url(ax7.png),
+            url(ax7.png),
+                url(player.png),
+                    url(player.png),
+        url(player.png),
+            url(player.png),
+                url(player.png),
+                    url(player.png),
+        url(player.png),
+            url(player.png),
+                url(player.png),
+                    url(player.png),
+        url(guns.jpg),
+            url(guns.jpg);
     background-size: 
         500px 200px, 
              500px 200px, 
@@ -35,47 +37,51 @@ body{
                 400px 300px, 
                      400px 300px, 
          400px 300px, 
-            400px 300px, 
-                150px 150px, 
-                    150px 150px, 
-        150px 150px, 
-                150px 150px, 
-                    150px 150px, 
-                        150px 150px, 
-        150px 150px, 
-            150px 150px, 
-                150px 150px, 
-                    150px 150px,
+            400px 300px,  
+                400px 50px,
+                    400px 50px,
         400px 50px,
             400px 50px,
-                400px 50px,
-                    400px 50px;
+                200px 200px,
+                    200px 200px,
+        200px 200px,
+            200px 200px,
+                200px 200px,
+                    200px 200px,
+        200px 200px,
+            200px 200px,
+                200px 200px,
+                    200px 200px,
+        500px 200px,
+            500px 200px;
     background-repeat: no-repeat; /* Evita que a imagem de fundo se repita */
         background-position: 
-            960px -30px, 
-                -150px -30px, 
-                    -100px 165px, 
-                        300px 165px, 
-            700px 165px, 
-                1100px 165px,
-                    122px 110px, 
-                         -242px 110px, 
-            662px 110px, 
-                1025px 110px, 
-                    70px 380px, 
-                        530px 380px, 
-            70px 580px, 
-                530px 580px, 
-                    1080px 580px, 
-                        1080px 770px, 
-            1080px 380px, 
-                530px 970px, 
-                    70px 770px, 
-                        530px 770px,
-            116px 1130px,
-                510px 1130px,
-                    -280px 1130px,
-                        904px 1130px;
+            960px 20px, 
+                -150px 20px, 
+                    -100px -10px, 
+                        300px -10px, 
+            700px -10px, 
+                1100px -10px,
+                    170px 110px, 
+                         -190px 110px, 
+            710px 110px, 
+                1075px 110px, 
+                    116px 1350px,
+                        510px 1350px,
+            -280px 1350px,
+                904px 1350px,
+                    550px 420px,
+                        45px 420px,
+            1055px 420,
+                45px 685px,
+                    550px 685px,
+                        1055px 685px,
+            45px 950px,
+                550px 950px,
+                    1055px 950px,
+                        550px 1215px,
+            960px 1115px,
+                -150px 1115px;
     background-color: hsl(28, 66%, 83%);
 }
     
@@ -92,15 +98,21 @@ body{
             padding: 0px -50px; /* Adiciona espaço acima do texto */
         }
         .texto-deslocado1 {
-            padding-top: 0px; /* Adiciona espaço acima do texto */
+            padding-top: 20px; /* Adiciona espaço acima do texto */
         }
         .paragrafo-compacto2 {
             line-height: 1; /* Define o espaçamento entre linhas para 1, o que significa que não haverá espaço extra entre as linhas */
             margin-bottom: 0; /* Remove o espaçamento na parte inferior do parágrafo */
 }
+    .paragrafo-compacto3{
+        margin-top: 55px;
+        margin-left: 95px;
+
+    }
 
 .texto-deslocado5 {
-    padding-top: 155px; /* Adiciona espaço acima do texto */
+    padding-top: 175px;
+    padding-bottom: 50px; 
 }
 
 .texto-deslocado4 {
@@ -109,8 +121,13 @@ body{
 }
 
 .texto-deslocado6 {
-    padding-bottom: 200px;
-        padding-top: 160px; 
+    padding-bottom: 250px;
+        padding-top: 180px; 
+}
+
+.texto-deslocado2{
+    padding-bottom: 50px;
+
 }
 
 
@@ -132,4 +149,3 @@ body{
 p{
     color: black;
 };
-
