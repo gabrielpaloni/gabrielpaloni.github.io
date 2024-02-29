@@ -7,6 +7,8 @@
     <style>
         body {
             background-color: hsl(28, 66%, 83%);
+            margin: 0; /* Removendo margens padrão do body */
+            overflow-x: hidden; /* Ocultando a barra de rolagem horizontal */
         }
         .imagem-container {
             position: relative; /* Define o posicionamento relativo para os contêineres */
@@ -78,10 +80,10 @@
             background-image: url("https://logos-world.net/wp-content/uploads/2022/11/Avenged-Sevenfold-Emblem.png");
             background-size: 100% auto;
             width: 500px;
-            height: 200px;
-            top: 20px;
-            left: 50%; /* 50% da largura da tela */
-            transform: translateX(-50%); /* Move a imagem 50% para a esquerda para centralizar */
+            height: 300px;
+            top: 0px;
+            left: calc(50% + 550px); /* Ajuste da posição */
+            transform: translateX(-50%);
         }
 
         .background-image2 {
@@ -90,10 +92,10 @@
             background-image: url("https://logos-world.net/wp-content/uploads/2022/11/Avenged-Sevenfold-Emblem.png");
             background-size: 100% auto;
             width: 500px;
-            height: 200px;
-            top: 20px;
-            left: 50%; /* 50% da largura da tela */
-            transform: translateX(-50%); /* Move a imagem 50% para a esquerda para centralizar */
+            height: 300px;
+            top: 0px;
+            left: calc(50% - 550px); /* Ajuste da posição */
+            transform: translateX(-50%);
         }
 
         .colorido {
@@ -209,7 +211,7 @@
             <img class="imagem7" src="avenged.jpg" alt="Minha Imagem" height="150px">
         </a>
     </div>
-
+    
     <div class="imagem-container">
         <a href="hail to the king.html">
             <img class="imagem8" src="king.jpg" alt="Minha Imagem" height="150px">
@@ -256,4 +258,3 @@
     </p> 
 </body>
 </html>
-
