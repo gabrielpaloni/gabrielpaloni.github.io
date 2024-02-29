@@ -1,0 +1,152 @@
+
+body{
+    background-image: 
+                 url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Avenged_Sevenfold_-_Logo.svg/2560px-Avenged_Sevenfold_-_Logo.svg.png),
+                     url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Avenged_Sevenfold_-_Logo.svg/2560px-Avenged_Sevenfold_-_Logo.svg.png),
+        url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Avenged_Sevenfold_-_Logo.svg/2560px-Avenged_Sevenfold_-_Logo.svg.png),
+            url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Avenged_Sevenfold_-_Logo.svg/2560px-Avenged_Sevenfold_-_Logo.svg.png),
+                url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Avenged_Sevenfold_-_Logo.svg/2560px-Avenged_Sevenfold_-_Logo.svg.png),
+                    url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Avenged_Sevenfold_-_Logo.svg/2560px-Avenged_Sevenfold_-_Logo.svg.png),
+        url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Avenged_Sevenfold_-_Logo.svg/2560px-Avenged_Sevenfold_-_Logo.svg.png),
+            url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Avenged_Sevenfold_-_Logo.svg/2560px-Avenged_Sevenfold_-_Logo.svg.png),
+                url(https://png.pngtree.com/png-vector/20220728/ourmid/pngtree-png-music-player-background-png-image_6089907.png),
+                    url(https://png.pngtree.com/png-vector/20220728/ourmid/pngtree-png-music-player-background-png-image_6089907.png),
+        url(https://png.pngtree.com/png-vector/20220728/ourmid/pngtree-png-music-player-background-png-image_6089907.png),
+            url(https://png.pngtree.com/png-vector/20220728/ourmid/pngtree-png-music-player-background-png-image_6089907.png),
+                url(https://png.pngtree.com/png-vector/20220728/ourmid/pngtree-png-music-player-background-png-image_6089907.png),
+                    url(https://png.pngtree.com/png-vector/20220728/ourmid/pngtree-png-music-player-background-png-image_6089907.png),
+        url(https://png.pngtree.com/png-vector/20220728/ourmid/pngtree-png-music-player-background-png-image_6089907.png),
+            url(https://png.pngtree.com/png-vector/20220728/ourmid/pngtree-png-music-player-background-png-image_6089907.png),
+                url(https://png.pngtree.com/png-vector/20220728/ourmid/pngtree-png-music-player-background-png-image_6089907.png),
+                    url(https://png.pngtree.com/png-vector/20220728/ourmid/pngtree-png-music-player-background-png-image_6089907.png),
+        url(https://cdn.freelogovectors.net/wp-content/uploads/2023/09/avenged_sevenfold-logo-freelogovectors.net_.png),
+            url(https://cdn.freelogovectors.net/wp-content/uploads/2023/09/avenged_sevenfold-logo-freelogovectors.net_.png);
+    background-size: 
+                 400px 50px, 
+                    400px 50px, 
+        400px 50px, 
+             400px 50px,  
+                400px 50px,
+                    400px 50px,
+        400px 50px,
+            400px 50px,
+                200px 200px,
+                    400px 400px,
+        200px 200px,
+            200px 200px,
+                200px 200px,
+                    200px 200px,
+        200px 200px,
+            200px 200px,
+                200px 200px,
+                    200px 200px,
+        500px 200px,
+            500px 200px;
+    background-repeat: no-repeat; /* Evita que a imagem de fundo se repita */
+        background-position: 
+                    -100px -10px, 
+                        300px -10px, 
+            700px -10px, 
+                1100px -10px, 
+                    116px 1095px,
+                        510px 1095px,
+            -280px 1095px,
+                904px 1095px,
+                    555px 1410px,
+                        45px 350px,
+            1055px 1410,
+                45px 1660px,
+                    555px 1660px,
+                        1055px 1660px,
+            45px 1900px,
+                555px 1900px,
+                    1055px 1900px,
+                        555px 11150px, 
+            960px 1270px,
+                400px 1840px;
+    background-color: hsl(28, 66%, 83%);
+}
+    
+
+    
+    .colorido {
+        color: red; /* Cor da parte colorida */
+    }
+    .paragrafo-compacto {
+        line-height: 0; /* Define o espaçamento entre linhas para 1, o que significa que não haverá espaço extra entre as linhas */
+            margin-bottom: 0; /* Remove o espaçamento na parte inferior do parágrafo */
+    }
+        .texto-deslocado {
+            padding: 0px -50px; /* Adiciona espaço acima do texto */
+        }
+        .texto-deslocado1 {
+            padding-top: 20px; /* Adiciona espaço acima do texto */
+        }
+        .paragrafo-compacto2 {
+            line-height: 1; /* Define o espaçamento entre linhas para 1, o que significa que não haverá espaço extra entre as linhas */
+            margin-bottom: 0; /* Remove o espaçamento na parte inferior do parágrafo */
+}
+    .paragrafo-compacto3{
+        margin-top: 55px;
+        margin-left: 95px;
+
+    }
+    .paragrafo-compacto5{
+        margin-top: 160px;
+        margin-left: 86px;
+
+    }
+    .paragrafo-compacto6{
+        margin-top: 160px;
+        margin-left: 1100px;
+
+    }
+
+.texto-deslocado5 {
+    padding-top: 155px;
+    padding-bottom: 50px; 
+}
+
+.texto-deslocado4 {
+    padding-top: 75px; /* Adiciona espaço acima do texto */
+        padding-bottom: 50px;
+}
+
+.texto-deslocado6 {
+    padding-bottom: 250px;
+        padding-top: 160px; 
+}
+
+.texto-deslocado2{
+    padding-top: 35px;
+
+}
+
+
+.texto-deslocado3 {
+    padding-inline: 10px;
+}
+
+.imagem-rotacionada {
+    transform: rotate(10deg); /* Define o ângulo de rotação da imagem */
+}
+.imagem-modificada {
+    width: 300px; /* Define a largura da imagem */
+        height: 40px; /* Mantém a proporção da imagem ao alterar a largura */
+}
+.imagem-posicionada {
+    margin-left: 100px; /* Ajusta a margem esquerda para posicionar a imagem */
+        margin-top: 20px;
+}
+p{
+    color: black;
+};
+.texto-deslocado11{
+    padding-left: 400px;
+   padding-top: 300px;
+
+}
+.paragrafo-compacto4{
+    margin-top: 40px;
+    line-height: 0px;
+}
