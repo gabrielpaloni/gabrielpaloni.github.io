@@ -136,8 +136,18 @@
             margin-top: 20px;
         }
         .background-img {
-            background-image: url(guns.jpg);
             background-repeat: no-repeat; /* Não repetir a imagem de fundo */
+            background-size: contain; /* Ajusta a imagem para se ajustar ao tamanho do container */
+        }
+
+        .background-img-1 {
+            background-image: url(guns.jpg);
+            background-position: 960px 20px; /* Posição da primeira imagem de fundo */
+        }
+
+        .background-img-2 {
+            background-image: url(guns.jpg);
+            background-position: -150px 20px; /* Posição da segunda imagem de fundo */
         }
         imagem-container1 {
             position: relative;
@@ -146,23 +156,15 @@
             margin-bottom: 20px; /* Espaçamento entre os containers */
             background-size: contain; /* Ajusta a imagem para se ajustar ao tamanho do container */
         }
-
-        .background-img-1 {
-            background-position: 960px 20px; /* Posição da primeira imagem de fundo */
-        }
-
-        .background-img-2 {
-            background-position: -150px 20px; /* Posição da segunda imagem de fundo */
-        }
-
+        
         p {
             color: black;
         }
     </style>
 </head>
 <body>
-    <div class="imagem-container1" class="background-img1" class="background-img-1"></div>
-    <div class="imagem-container1" class="background-img1" class="background-img-1"></div>
+    <div class="imagem-container1" class="background-img" class="background-img-1"></div>
+    <div class="imagem-container1" class="background-img" class="background-img-2"></div>
 
     <div class="imagem-container">
         <a href="m.i.a..html">
